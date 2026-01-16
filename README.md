@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://studyflowx.netlify.app/
+**URL**: https://studexa.netlify.app/
 
 ## How can I edit this code?
 
